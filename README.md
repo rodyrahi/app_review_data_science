@@ -1,7 +1,7 @@
 # App Store Reviews EDA 📱
 - Given 2 Datasets reviews and users
 - Both the datasets needed to be joined to create on dataset
-  - ```
+   ```
       RangeIndex: 64295 entries, 0 to 64294
       Data columns (total 5 columns):
        #   Column                  Non-Null Count  Dtype  

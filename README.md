@@ -15,3 +15,6 @@
     ```
 - Data cleaning is done on the dataset to Do Eda On the dataset
   ![image](https://github.com/user-attachments/assets/ac276e5c-636f-493b-9577-6376f6094e28)
+
+  ![image](https://github.com/user-attachments/assets/e0f22d24-1ff3-4720-b22f-fad7a1d9a027)
+
